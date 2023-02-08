@@ -18,6 +18,7 @@
 ## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
 
 ## _[Basic usage helper](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
+## _[heroku : how to deploy](https://github.com/sip-userbot/whatsapp-bot/Wiki/heroku
 
 <div align="left">
 
